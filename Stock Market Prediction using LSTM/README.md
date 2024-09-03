@@ -1,6 +1,3 @@
-### README.md for the Stock Market Prediction Project
-
-```markdown
 # Stock Market Prediction using LSTM
 
 This project aims to predict future stock prices based on historical data. We utilize Python, pandas for data manipulation, matplotlib for data visualization, and TensorFlow for building a deep learning model. Data is sourced from Yahoo Finance, providing a robust dataset of historical stock prices.
@@ -23,7 +20,7 @@ What things you need to install the software and how to install them:
 python>=3.7
 pandas
 matplotlib
-tensorflow
+TensorFlow
 yfinance
 ```
 
@@ -31,7 +28,8 @@ yfinance
 
 1. **Clone the repo**
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/manikanthdharam/Projects/Stock Market Prediction using LSTM.git
+.git
    ```
 2. **Install required packages**
    ```sh
@@ -52,11 +50,11 @@ The data includes various features, but we primarily focus on the 'Close' price 
 
 ## Model
 
-We use a Long Short-Term Memory (LSTM) model, which is suitable for sequence prediction problems like time series data. The model is configured with two LSTM layers followed by a dense layer to predict the stock price.
+We use a Long Short-Term Memory (LSTM) model suitable for sequence prediction problems like time series data. The model is configured with two LSTM layers followed by a dense layer to predict the stock price.
 
 ## Results
 
-The model's predictions are visualized against the actual stock prices to evaluate performance. Further tuning and validation can enhance model accuracy.
+To evaluate performance, the model's predictions are visualized against the actual stock prices. Further tuning and validation can enhance model accuracy.
 
 ## Contributing
 
@@ -75,4 +73,4 @@ Contributions are what make the open-source community such a fantastic place to 
 
 - Yahoo Finance for providing the dataset
 - TensorFlow community for excellent documentation
-```
+
