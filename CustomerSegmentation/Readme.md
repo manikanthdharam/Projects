@@ -1,6 +1,4 @@
-### README.md for the Retail Customer Segmentation Project
 
-```markdown
 # Retail Customer Segmentation
 
 This project involves developing a machine learning model to segment retail customers based on their purchasing behavior. The segmentation helps in tailoring marketing strategies effectively. We use Python with pandas for data manipulation, matplotlib for data visualization, and scikit-learn for implementing the K-Means clustering algorithm. The data is sourced from the UCI Machine Learning Repository's "Online Retail II" dataset.
